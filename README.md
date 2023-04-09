@@ -5,6 +5,10 @@ This repository contains code for analyzing user reviews of the Bumble dating ap
 ## Dataset
 The dataset used in this analysis was collected from the Google Play Store and contains over 1000 user reviews of the Bumble dating app. The dataset can be accessed on Kaggle (https://www.kaggle.com/datasets/shivkumarganesh/bumble-dating-app-google-play-store-review)
 
+## My Jupyter Notebook
+This is my Jupyter Notebook with pyLDAvis visualizations, which can not be perfectly rendered on github. Click the link to view it using nbviewer:
+[View Notebook on nbviewer](https://nbviewer.org/github/junghyori/Dating-App-User-Feedback-Analysis/blob/main/Bumble%20User%20Feedback%20Analysis.ipynb)
+
 ## Results
 The topic modelling analysis identified 10 topics in the user review data. Each topic represents a common theme or issue that users have with the app, such as technical issues, dating experience, user interface, security, and account management. Specific features that users would like to see improved are extracted, based on a list of keywords related to improvement. This can help the product team prioritize and address specific user concerns or pain points in order to improve the user experience and drive engagement on the platform.
 
