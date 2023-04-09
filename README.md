@@ -3,7 +3,7 @@
 This repository contains code for analyzing user reviews of the Bumble dating app, as collected from the Google Play Store. The analysis includes topic modelling to identify common themes or issues users have with the app, as well as sentiment analysis to assess user sentiment towards the app.
 
 ## Dataset
-The dataset used in this analysis was collected from the Google Play Store and contains over 1000 user reviews of the Bumble dating app. The dataset can be accessed on Kaggle (https://www.kaggle.com/datasets/shivkumarganesh/bumble-dating-app-google-play-store-review)
+The dataset used in this analysis was collected from the Google Play Store and contains over 1000 user reviews of the Bumble dating app. The dataset can be accessed on [Kaggle](https://www.kaggle.com/datasets/shivkumarganesh/bumble-dating-app-google-play-store-review)
 
 ## My Jupyter Notebook
 This is my Jupyter Notebook with pyLDAvis visualizations, which can not be perfectly rendered on github. Click the link to view it using nbviewer:
