@@ -10,7 +10,7 @@ This is my Jupyter Notebook with pyLDAvis visualizations, which can not be perfe
 [View Notebook on nbviewer](https://nbviewer.org/github/junghyori/Dating-App-User-Feedback-Analysis/blob/main/Bumble%20User%20Feedback%20Analysis.ipynb)
 
 ## Results
-The topic modelling analysis identified 10 topics in the user review data. Each topic represents a common theme or issue that users have with the app, such as technical issues, dating experience, user interface, security, and account management. Specific features that users would like to see improved are extracted, based on a list of keywords related to improvement. This can help the product team prioritize and address specific user concerns or pain points in order to improve the user experience and drive engagement on the platform.
+The topic modelling analysis identified 10 topics in the user review data. Each topic represents a common theme or issue that users have with the app, such as technical issues, dating experience, user interface, security, and account management. This can help the product team prioritize and address specific user concerns or pain points in order to improve the user experience and drive engagement on the platform.
 
 The sentiment score analysis indicated that users have a generally neutral to slightly positive view of the app, with some topics having slightly more positive or negative sentiment. Users express some positive feelings about the dating experience facilitated by the app, but also have concerns about fake profiles, privacy, and account management.
 
